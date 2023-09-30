@@ -1,1 +1,31 @@
+Question 1 (sprit telecom)
+
+These are the series of steps i would take to provide a solution.
+1. Understanding the past user data
+
+2. Data Processing
+Clean the data by handling missing values, incosistency and outliers. Organising and storing the data in a suitable format for analysis.
+
+3. Data Exploration
+Analyze the features in the data to identify the most relevant ones for the churn prediction, while creating any new features that may be if help to provide more insights into customer behavior. 
+Identifying patterns and trends in the data. 
+
+4. Data splitting
+Split the dataset into training and testing sets to evaluate the model's performance.
+
+5. Chosing the right machine learning model.
+Choose an appropriate machine learning algorithm for classification task, such as a Decision trees.
+
+6. Model Evaluation
+Evaluate models using appropriate evaluation techniques such as accuracy, recall, precision.
+
+7. Fine tune the model
+Fine-tune the model parameters usingtechniques like grid search or random search.
+
+8. Testing and Validation
+Validate the model's performance on a seperate validation set to ensure its robustness
+Test the final model ont he testing set to evaluate its real-world pedictive power
+
+9. Deployment 
+Deploy the trained machine learning model, integrating it with the sprint's system to predict custormer churn.
 
